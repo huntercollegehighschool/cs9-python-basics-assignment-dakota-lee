@@ -18,4 +18,4 @@ num1 = int(input("Enter the base: "))
 num2 = int(input("Enter the height: "))
 area = (num1*num2)/2
 
-print("The area of the triangle is " + str(area))
+print("The area of the triangle is " + str(area) + ".")
